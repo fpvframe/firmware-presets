@@ -160,6 +160,7 @@
       "DusKing1 (Hugo Chiang), Pitronic",
       "Evan Turner (Headsup)",
       "Feisar",
+      "FPVFrame.ch",
       "FPVian",
       "Garban",
       "IllusionFpv",
@@ -278,6 +279,7 @@
       "filtering",
       "filters",
       "five33",
+      "flowx",
       "FPVCycle",
       "FPVCycle TP3",
       "fpvian",
@@ -451,6 +453,21 @@
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/bnf/FPVFrame_FlowX_V2_BNF.txt",
+      "hash": "1c4aac4e1ddd61d03e5492892fe3dda2a3379c32db4a2656a2dc068417db3826",
+      "title": "FPVFrame - FlowX V2",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "flowx"
+      ],
+      "author": "FPVFrame.ch",
+      "priority": 1000000000000
+    },
     {
       "fullPath": "presets/4.3/filters/ctzsnooze_race.txt",
       "hash": "751a6f316eb81fd94215291eb35b719cc52d9ca66baa53668d495f8351e1156c",
@@ -2557,6 +2574,22 @@
         "freestyle",
         "GoPro",
         "mouse fpv"
+      ],
+      "author": "mouseFPV",
+      "force_options_review": true,
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/mouseFPV_FPVCycle_Sonicare_tune_filters.txt",
+      "hash": "687d0579012fe8e2bd5bb1c5a6eb4f7ef9a9f2b02566a32eb304c6566b19ce89",
+      "title": "FPVCycle Sonicare 6s Tune | mouseFPV",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "FPVCycle"
       ],
       "author": "mouseFPV",
       "force_options_review": true,
